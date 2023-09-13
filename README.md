@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>As I approach the completion of my Master's degree in Data Science at UC Berkeley, <b style="color:red;">I am seeking a challenging position where I can utilize my advanced data analytics and machine learning skills to provide actionable insights, drive business growth, and enhance customer satisfaction in a dynamic and AI-driven organization.</b></p>
+<p>As I approach the completion of my Master's degree in Data Science at UC Berkeley, <b style="color:red;">With my advanced data analytics and machine learning skills, I am seeking a challenging position that allows me to provide actionable insights that will help drive business growth and customer satisfaction</b></p>
 
 <html>
 <h2>About me:</h2>
