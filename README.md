@@ -16,19 +16,15 @@
 | **Education** |
 |--- |
 | **University of California, Berkeley** |
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Master, Data Science  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;May 2024</i> |
-|                                 |                                           
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Master, Data Science  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;May 2024</i> |                                 
 | **Virginia Tech** |
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Master, Information Technology  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	2014</i> |
-|       |
 | **Strayer University** |
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>MBA – Finance	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	2008</i> |
-|       |
 | **Bangkok University** |
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>BBA – Marketing		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	2004</i> |
-|       |
 
-![image](https://github.com/peeti-sriwongsanguan/peeti-sriwongsanguan/assets/144863396/08bdaee7-5fb3-476b-abbe-a3486fa4fbaf)
+
 
 
 <h1>Here is a showcase of stuff I enjoy working on</h1>
