@@ -12,7 +12,7 @@
 
 <p>How to reach me: <a href="url">peeti.jobs@gmail.com</a></p>
 </html>
-
+<!--
 | **Education** |
 |--- |
 | **University of California, Berkeley** |
@@ -23,7 +23,7 @@
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>MBA – Finance	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	2008</i> |
 | **Bangkok University** |
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>BBA – Marketing		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	2004</i> |
-
+-->
 
 
 
