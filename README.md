@@ -5,7 +5,7 @@
 <html>
 <h2>About me:</h2>
 <ul>
-<li>10 years of Experience, highly skilled and results-driven Data Scientist with expertise in churn analysis, NLP for customer reviews and comments, and performing anomaly detection.</li>
+<li>Over 10 years of Experience, highly skilled and results-driven Data Scientist with expertise in churn analysis, NLP for customer reviews and comments, and performing anomaly detection.</li>
 <li>Expert in mining, extracting, analyzing, visualizing, and presenting data from diverse business areas in insightful ways to persuade senior Executives to take informed actions </li>
 <li>Enjoys breaking down walls and silos, and building cross functional relationships to facilitate better decision-making.</li> 
 </ul>
