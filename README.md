@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>After completing my Master's degree in Data Science at UC Berkeley, <b style="color:red;">I am seeking to find a challenging position where I can deliver actionable insights to drive business growth and enhance customer satisfaction. I am passionate about automating data operations to minimize errors and improve system interoperability.</b></p>
+<p>After completing my Master's degree in Data Science at UC Berkeley, <b style="color:red;">I am seeking to find a challenging position where I can deliver actionable insights to drive business growth and enhance customer satisfaction.</b> I am passionate about automating data operations to minimize errors and improve system interoperability.</p>
 
 <html>
 <h2>About me:</h2>
