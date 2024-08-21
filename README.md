@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p>After completing my Master's degree in Data Science at UC Berkeley, <b style="color:red;">I am seeking to find a challenging position where I can deliver actionable insights to drive business growth and enhance customer satisfaction.</b> I am passionate about automating data operations to minimize errors and improve system interoperability.</p>
 
 <html>
@@ -9,6 +7,26 @@
 <li>Expert in mining, extracting, analyzing, visualizing, and presenting data from diverse business areas in insightful ways to persuade senior Executives to take informed actions </li>
 <li>Enjoys breaking down walls and silos, and building cross functional relationships to facilitate better decision-making.</li> 
 </ul>
+### Resume Visualization
+
+[![Resume by Sankey diagram](https://public.tableau.com/static/images/Sk/Skills_26/ResumebySankeydiagram/1.png)](https://public.tableau.com/views/Skills_26/ResumebySankeydiagram)
+
+*Click the image above to view the interactive visualization.*
+
+### How to Reach Me
+
+Feel free to contact me at: [peeti.jobs@gmail.com](mailto:peeti.jobs@gmail.com)
+
+---
+
+### Showcase of Projects
+
+---
+
+
+
+
+
 
 <p>How to reach me: <a href="url">peeti.jobs@gmail.com</a></p>
 </html>
