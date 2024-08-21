@@ -7,21 +7,11 @@
 <li>Expert in mining, extracting, analyzing, visualizing, and presenting data from diverse business areas in insightful ways to persuade senior Executives to take informed actions </li>
 <li>Enjoys breaking down walls and silos, and building cross functional relationships to facilitate better decision-making.</li> 
 </ul>
-### Resume Visualization
+
 
 [![Resume by Sankey diagram](https://public.tableau.com/static/images/Sk/Skills_26/ResumebySankeydiagram/1.png)](https://public.tableau.com/views/Skills_26/ResumebySankeydiagram)
 
 *Click the image above to view the interactive visualization.*
-
-### How to Reach Me
-
-Feel free to contact me at: [peeti.jobs@gmail.com](mailto:peeti.jobs@gmail.com)
-
----
-
-### Showcase of Projects
-
----
 
 
 
@@ -43,9 +33,10 @@ Feel free to contact me at: [peeti.jobs@gmail.com](mailto:peeti.jobs@gmail.com)
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>BBA – Marketing		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	2004</i> |
 -->
 
-
-
+---
 <h1>Here is a showcase of stuff I enjoy working on</h1>
+
+---
 <!--
 **peeti-sriwongsanguan/peeti-sriwongsanguan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
